@@ -1,21 +1,22 @@
-# Hi, I'm Novotny P.
+# Hey, I'm NoVotny 👋
 
-Full-stack developer working in TypeScript, React, and Node. I build complete products and take them all the way to deployment. Fullstack Academy @ Emory University, 2026.
+I build full-stack web apps and actually ship them. Not demos or tutorials — real products people log into, pay for, and break in ways I never planned for. I started coding to build my way toward something better, and I haven't stopped since. Right now I'm wrapping up Fullstack Academy at Emory (2026).
 
-### What I'm building
+I like working end to end: the database, the API, and the part the user actually clicks. TypeScript and React up front, Node on the back, Postgres underneath, and lately a lot of time spent wiring AI (Claude, OpenAI, Gemini) into features that earn their keep.
 
-**[Credit Smack](https://creditsmack.app)** — a B2B dispute-letter engine for credit-repair operators. Reads a credit report, identifies the violations, cites the statute, and drafts the full package across all three bureaus.
-`Next.js 15` · `PostgreSQL` · `Claude` · `PDF + OCR pipeline` → [source](https://github.com/singlefatherhustle/credit-smack)
+### Stuff I've built
 
-**[AsideMe](https://asideme.app)** — a real-time AI assistant for live classes and certification exams. Transcribes as the teacher speaks, answers questions from your own study materials, and generates quizzes, flashcards, and summaries.
-`Node / Express` · `WebSocket + SSE` · `RAG` · `102 Playwright tests` → [source](https://github.com/singlefatherhustle/asideme)
+**[Credit Smack](https://creditsmack.app)** — the one I've poured the most into. Upload a credit report and it reads the tradelines, finds the violations, cites the exact federal statute, and drafts a full dispute package for all three bureaus. Built for credit-repair operators, not consumers.
+↳ Next.js 15 · PostgreSQL · Claude · PDF + OCR pipeline · [code](https://github.com/singlefatherhustle/credit-smack)
 
-**[BeatDump](https://beatdump.app)** — a live web app for music producers.
+**[AsideMe](https://asideme.app)** — a real-time assistant for live classes and certification exams. It listens while the teacher talks, answers from your own study materials, and turns the session into quizzes, flashcards, and summaries.
+↳ Node · WebSocket + SSE · RAG · [code](https://github.com/singlefatherhustle/asideme)
 
-### Stack
+**[BeatDump](https://beatdump.app)** — a web app for music producers, and the project my company grew out of.
 
-TypeScript · JavaScript · React / Next.js · Node / Express · PostgreSQL · Google Cloud · Anthropic / OpenAI / Gemini · Solidity
+### Where I'm at
 
-### Now
+Open to full-stack roles. Easiest ways to reach me:
 
-Open to full-stack engineering roles. Reach me at **novotnypopedev@gmail.com** · **[LinkedIn](https://www.linkedin.com/in/novotnypope)**
+📧 **novotnypopedev@gmail.com**
+💼 **[linkedin.com/in/novotnypope](https://www.linkedin.com/in/novotnypope)**
